@@ -1,0 +1,27 @@
+{
+  "name": "dependencies-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform-string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasllabanca/dependencies-repo-dm124-praticas.git"
+  },
+  "keywords": [
+    "JS",
+    "STRING"
+  ],
+  "author": "lucasllabanca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasllabanca/dependencies-repo-dm124-praticas/issues"
+  },
+  "homepage": "https://github.com/lucasllabanca/dependencies-repo-dm124-praticas#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "useful-string": "0.0.2"
+  }
+}

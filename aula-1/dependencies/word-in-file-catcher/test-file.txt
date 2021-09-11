@@ -1,0 +1,2 @@
+Este é um arquivo de teste para ser usado como parametro do Desafio 3.
+O Desafio consiste em imprimir as linhas de um arquivo e destacar a letra/palavra passada como parâmetro.
